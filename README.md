@@ -1,6 +1,6 @@
 # VoiceDraw
 
-1. **VoiceDraw**: A comprehensive artificial intelligence system focused on image and voice generation, as well as working with various modalities.
+1. **VoiceDraw**: VoiceDraw is an artificial intelligence project enabling image and voice generation through various modalities.
   
 2. **Components**:
    - **recorder.py**: This module is designed for voice recording functionality.
