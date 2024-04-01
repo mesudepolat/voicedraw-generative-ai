@@ -18,4 +18,3 @@
   
    
   
-<img width="519" alt="Ekran Resmi 2024-04-01 11 53 22" src="https://github.com/mesudepolat/generative-ai/assets/61362079/745e5865-fa9c-44a9-8d2e-45608e3a980d">
