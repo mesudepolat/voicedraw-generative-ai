@@ -1,4 +1,4 @@
-# generative-ai
+# VoiceDraw
 
 1. **VoiceDraw**: A comprehensive artificial intelligence system focused on image and voice generation, as well as working with various modalities.
   
